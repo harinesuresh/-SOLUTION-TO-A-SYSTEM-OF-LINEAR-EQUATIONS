@@ -28,4 +28,3 @@ End the program
 ![Alt text](<Screenshot (9).png>)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
-
